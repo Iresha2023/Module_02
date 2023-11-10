@@ -1,0 +1,5 @@
+contribution form Iresha
+
+Forking repositories creates a controlled official repository, with the flexibility for numerous variations of the official repository to exist so developers are free to experiment with the project; and if they make changes to the project, the non-official alterations may submit a pull request to the official repository. A pull request is a contributor repository requesting that the official repository 'pull' the contributor repository's new changes into the official repository. If the official repository decides the pull request is good enough, they will pull the contributor repository and merge their changes into the official repository.
+
+This allows for a central point of control because the official repository may simply reject the PR, which means they will not accept the changes made by the contributor. If the changes the contributor have made are a distinct improvement, they can (licensing allowing) make their version publically available and let others treat their version as the new 'official', and in this way you can chain together forks
